@@ -11,7 +11,7 @@
          "Category":{
             "Code":"VEG",
             "Description":"VEGETALES",
-            "IconName":"cat_vegetables"
+            "IconName":"ic_vegetables"
          },
          "UnityType":{
             "Code":"",
@@ -24,7 +24,7 @@
          "Code":"VEG02",
          "ShortName":"Ajie",
          "LongName":"Ajie",
-         "IconName":"cat_vegetable_ni",
+         "IconName":"ic_vegetable_ni",
          "Cost":20,
          "Price":20,
          "Category":{
@@ -43,7 +43,7 @@
          "Code":"VEG03",
          "ShortName":"Apio",
          "LongName":"Apio",
-         "IconName":"cat_vegetable_ni",
+         "IconName":"ic_vegetable_ni",
          "Cost":15,
          "Price":15,
          "Category":{
@@ -62,7 +62,7 @@
          "Code":"VEG04",
          "ShortName":"Cebolla",
          "LongName":"Cebolla",
-         "IconName":"cat_vegetable_ni",
+         "IconName":"ic_vegetable_ni",
          "Cost":45,
          "Price":45,
          "Category":{
@@ -81,7 +81,7 @@
          "Code":"VEG05",
          "ShortName":"Apio",
          "LongName":"Apio",
-         "IconName":"cat_vegetable_ni",
+         "IconName":"ic_vegetable_ni",
          "Cost":15,
          "Price":15,
          "Category":{
