@@ -341,44 +341,6 @@
          },
          "quantityInStock":1000,
          "barcode":"65833254"
-      },
-      {
-         "id":"019",
-         "code":"019",
-         "shortName":"Doria",
-         "longName":"Spaguettis 350g",
-         "iconName":"pasta",
-         "price":45.0,
-         "category":{
-            "code":"NAN",
-            "description":"SIN CATEGORÍA",
-            "iconName":"cat_more"
-         },
-         "unityType":{
-            "code":"Ud",
-            "description":"Unidad"
-         },
-         "quantityInStock":100,
-         "barcode":""
-      },
-      {
-         "id":"020",
-         "code":"020",
-         "shortName":"Aguacate",
-         "longName":"Aguacate Generico",
-         "iconName":"ic_vegetable_ni",
-         "price":20.0,
-         "category":{
-            "code":"VEG",
-            "description":"VEGETALES",
-            "iconName":"cat_vegetables"
-         },
-         "unityType":{
-            "code":"Ud",
-            "description":"Unidad"
-         },
-         "quantityInStock":50,
-         "barcode":""
       }
    ],
    "Categories":[
