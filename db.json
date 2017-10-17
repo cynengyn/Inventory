@@ -1,246 +1,385 @@
 {
    "ProductInventory":[
       {
-         "ID":0,
-         "Code":"VEG01",
-         "ShortName":"Cebolla",
-         "LongName":"Cebolla",
-         "IconName":"cebolla",
-         "Cost":40,
-         "Price":40,
-         "Category":{
-            "Code":"VEG",
-            "Description":"VEGETALES",
-            "IconName":"cat_vegetables"
+         "id":"001",
+         "code":"001",
+         "shortName":"Cebolla",
+         "longName":"Cebolla Generica",
+         "iconName":"cebolla",
+         "price":5.0,
+         "category":{
+            "code":"VEG",
+            "description":"VEGETALES",
+            "iconName":"cat_vegetables"
          },
-         "UnityType":{
-            "Code":"",
-            "Description":""
+         "unityType":{
+            "code":"Ud",
+            "description":"Unidad"
          },
-         "Quantity":0
+         "quantityInStock":100,
+         "barcode":""
       },
       {
-         "ID":0,
-         "Code":"VEG02",
-         "ShortName":"Ajie",
-         "LongName":"Ajie",
-         "IconName":"cat_vegetable_ni",
-         "Cost":20,
-         "Price":20,
-         "Category":{
-            "Code":"VEG",
-            "Description":"VEGETALES",
-            "IconName":"cat_vegetables"
+         "id":"002",
+         "code":"002",
+         "shortName":"Alpina",
+         "longName":"Agua 18 onz",
+         "iconName":"agua_alpina",
+         "price":10.0,
+         "category":{
+            "code":"EMB",
+            "description":"EMBUTidOS",
+            "iconName":"cat_stuff"
          },
-         "UnityType":{
-            "Code":"",
-            "Description":""
+         "unityType":{
+            "code":"Ud",
+            "description":"Unidad"
          },
-         "Quantity":0
+         "quantityInStock":1000,
+         "barcode":"65833254"
       },
       {
-         "ID":0,
-         "Code":"VEG03",
-         "ShortName":"Apio",
-         "LongName":"Apio",
-         "IconName":"cat_vegetable_ni",
-         "Cost":15,
-         "Price":15,
-         "Category":{
-            "Code":"VEG",
-            "Description":"VEGETALES",
-            "IconName":"cat_vegetables"
+         "id":"003",
+         "code":"003",
+         "shortName":"Doria",
+         "longName":"Spaguettis 350g",
+         "iconName":"pasta",
+         "price":45.0,
+         "category":{
+            "code":"NAN",
+            "description":"SIN CATEGORÍA",
+            "iconName":"cat_more"
          },
-         "UnityType":{
-            "Code":"",
-            "Description":""
+         "unityType":{
+            "code":"Ud",
+            "description":"Unidad"
          },
-         "Quantity":0
+         "quantityInStock":100,
+         "barcode":""
       },
       {
-         "ID":0,
-         "Code":"VEG04",
-         "ShortName":"Cebolla",
-         "LongName":"Cebolla",
-         "IconName":"cat_vegetable_ni",
-         "Cost":45,
-         "Price":45,
-         "Category":{
-            "Code":"VEG",
-            "Description":"VEGETALES",
-            "IconName":"cat_vegetables"
+         "id":"004",
+         "code":"004",
+         "shortName":"Aguacate",
+         "longName":"Aguacate Generico",
+         "iconName":"ic_vegetable_ni",
+         "price":20.0,
+         "category":{
+            "code":"VEG",
+            "description":"VEGETALES",
+            "iconName":"cat_vegetables"
          },
-         "UnityType":{
-            "Code":"",
-            "Description":""
+         "unityType":{
+            "code":"Ud",
+            "description":"Unidad"
          },
-         "Quantity":0
+         "quantityInStock":50,
+         "barcode":""
       },
       {
-         "ID":0,
-         "Code":"VEG05",
-         "ShortName":"Apio",
-         "LongName":"Apio",
-         "IconName":"cat_vegetable_ni",
-         "Cost":15,
-         "Price":15,
-         "Category":{
-            "Code":"VEG",
-            "Description":"VEGETALES",
-            "IconName":"cat_vegetables"
+         "id":"005",
+         "code":"005",
+         "shortName":"Carnation",
+         "longName":"Leche Evaporada 10 onz",
+         "iconName":"carnation",
+         "price":35.0,
+         "category":{
+            "code":"NAN",
+            "description":"SIN CATEGORÍA",
+            "iconName":"cat_more"
          },
-         "UnityType":{
-            "Code":"",
-            "Description":""
+         "unityType":{
+            "code":"Ud",
+            "description":"Unidad"
          },
-         "Quantity":0
+         "quantityInStock":30,
+         "barcode":""
       },
       {
-         "ID":0,
-         "Code":"REC01",
-         "ShortName":"Recargas",
-         "LongName":"Recargas",
-         "IconName":"claro",
-         "Cost":20,
-         "Price":20,
-         "Category":{
-            "Code":"REC",
-            "Description":"RECARGAS",
-            "IconName":"cat_recharge"
+         "id":"006",
+         "code":"006",
+         "shortName":"Corona",
+         "longName":"Cerveza 15 onz",
+         "iconName":"corona",
+         "price":70.0,
+         "category":{
+            "code":"ALC",
+            "description":"ALCOHOL",
+            "iconName":"cat_alcohol"
          },
-         "UnityType":{
-            "Code":"",
-            "Description":""
+         "unityType":{
+            "code":"Ud",
+            "description":"Unidad"
          },
-         "Quantity":0
+         "quantityInStock":0,
+         "barcode":""
       },
       {
-         "ID":0,
-         "Code":"REC02",
-         "ShortName":"Recargas",
-         "LongName":"Recargas",
-         "IconName":"claro",
-         "Cost":60,
-         "Price":60,
-         "Category":{
-            "Code":"REC",
-            "Description":"RECARGAS",
-            "IconName":"cat_recharge"
+         "id":"007",
+         "code":"007",
+         "shortName":"Dasani",
+         "longName":"Agua 18 onz",
+         "iconName":"agua_dasani",
+         "price":15.0,
+         "category":{
+            "code":"DRK",
+            "description":"BEBidAS",
+            "iconName":"cat_drink"
          },
-         "UnityType":{
-            "Code":"",
-            "Description":""
+         "unityType":{
+            "code":"Ud",
+            "description":"Unidad"
          },
-         "Quantity":0
+         "quantityInStock":1800,
+         "barcode":""
       },
       {
-         "ID":0,
-         "Code":"REC03",
-         "ShortName":"Recargas",
-         "LongName":"Recargas",
-         "IconName":"orange",
-         "Cost":60,
-         "Price":60,
-         "Category":{
-            "Code":"REC",
-            "Description":"RECARGAS",
-            "IconName":"cat_recharge"
+         "id":"008",
+         "code":"008",
+         "shortName":"Papas",
+         "longName":"Papas Genericas",
+         "iconName":"papa",
+         "price":15.0,
+         "category":{
+            "code":"VIV",
+            "description":"VIVERES",
+            "iconName":"cat_vivere"
          },
-         "UnityType":{
-            "Code":"",
-            "Description":""
+         "unityType":{
+            "code":"Lib",
+            "description":"Libra"
          },
-         "Quantity":0
+         "quantityInStock":600,
+         "barcode":"12345678"
       },
       {
-         "ID":0,
-         "Code":"DRK01",
-         "ShortName":"Corona",
-         "LongName":"Corona",
-         "IconName":"corona",
-         "Cost":110,
-         "Price":110,
-         "Category":{
-            "Code":"DRK",
-            "Description":"ALCOHOL",
-            "IconName":"cat_drink"
+         "id":"009",
+         "code":"009",
+         "shortName":"Platanos",
+         "longName":"Platanos Genericos",
+         "iconName":"vivere",
+         "price":8.0,
+         "category":{
+            "code":"VIV",
+            "description":"VIVERES",
+            "iconName":"cat_vivere"
          },
-         "UnityType":{
-            "Code":"",
-            "Description":""
+         "unityType":{
+            "code":"Ud",
+            "description":"Unidad"
          },
-         "Quantity":0
+         "quantityInStock":300,
+         "barcode":""
       },
       {
-         "ID":0,
-         "Code":"DRK02",
-         "ShortName":"Presidente",
-         "LongName":"Presidente",
-         "IconName":"ic_alcohol_ni",
-         "Cost":130,
-         "Price":130,
-         "Category":{
-            "Code":"DRK",
-            "Description":"ALCOHOL",
-            "IconName":"cat_drink"
+         "id":"010",
+         "code":"010",
+         "shortName":"Pollo",
+         "longName":"Pollo Generico",
+         "iconName":"pollo",
+         "price":65.0,
+         "category":{
+            "code":"CAR",
+            "description":"CARNES",
+            "iconName":"cat_meat"
          },
-         "UnityType":{
-            "Code":"",
-            "Description":""
+         "unityType":{
+            "code":"Lib",
+            "description":"Libra"
          },
-         "Quantity":0
+         "quantityInStock":0,
+         "barcode":""
+      },
+      {
+         "id":"011",
+         "code":"011",
+         "shortName":"Crisol",
+         "longName":"Aceite Vegetal 8 onz",
+         "iconName":"aceite",
+         "price":10.0,
+         "category":{
+            "code":"NAN",
+            "description":"SIN CATEGORÍA",
+            "iconName":"cat_more"
+         },
+         "unityType":{
+            "code":"Ud",
+            "description":"Unidad"
+         },
+         "quantityInStock":350,
+         "barcode":""
+      },
+      {
+         "id":"012",
+         "code":"012",
+         "shortName":"Mamut",
+         "longName":"Galletas",
+         "iconName":"mamut",
+         "price":15.0,
+         "category":{
+            "code":"NAN",
+            "description":"SIN CATEGORÍA",
+            "iconName":"cat_more"
+         },
+         "unityType":{
+            "code":"Ud",
+            "description":"Unidad"
+         },
+         "quantityInStock":230,
+         "barcode":""
+      },
+      {
+         "id":"013",
+         "code":"013",
+         "shortName":"Maggi",
+         "longName":"Sazón Completo",
+         "iconName":"sazon",
+         "price":45.0,
+         "category":{
+            "code":"CON",
+            "description":"CONDIMENTO",
+            "iconName":"cat_condiment"
+         },
+         "unityType":{
+            "code":"Ud",
+            "description":"Unidad"
+         },
+         "quantityInStock":0,
+         "barcode":""
+      },
+      {
+         "id":"014",
+         "code":"014",
+         "shortName":"Quezo",
+         "longName":"Quezo Generico",
+         "iconName":"queso",
+         "price":25.0,
+         "category":{
+            "code":"NAN",
+            "description":"SIN CATEGORÍA",
+            "iconName":"cat_more"
+         },
+         "unityType":{
+            "code":"Lib",
+            "description":"Libra"
+         },
+         "quantityInStock":90,
+         "barcode":""
+      },
+      {
+         "id":"015",
+         "code":"015",
+         "shortName":"Rica",
+         "longName":"Jugo de naranja 8 onz",
+         "iconName":"jugo",
+         "price":15.0,
+         "category":{
+            "code":"DRK",
+            "description":"BEBidAS",
+            "iconName":"cat_drink"
+         },
+         "unityType":{
+            "code":"Ud",
+            "description":"Unidad"
+         },
+         "quantityInStock":190,
+         "barcode":"071153785601"
+      },
+      {
+         "id":"016",
+         "code":"016",
+         "shortName":"Claro",
+         "longName":"Recarga",
+         "iconName":"claro",
+         "price":50.0,
+         "category":{
+            "code":"REC",
+            "description":"RECARGAS",
+            "iconName":"cat_recharge"
+         },
+         "unityType":{
+            "code":"Ud",
+            "description":"Unidad"
+         },
+         "quantityInStock":10000,
+         "barcode":"5800000658"
       }
    ],
    "Categories":[
       {
-         "Code":"DRK",
-         "Description":"ALCOHOL",
-         "IconName":"cat_drink"
+         "code":"ALL",
+         "description":"TODOS",
+         "iconName":"cat_all"
       },
       {
-         "Code":"REP",
-         "Description":"REPOSTERIA",
-         "IconName":"cat_bread"
+         "code":"REC",
+         "description":"RECARGAS",
+         "iconName":"cat_recharge"
       },
       {
-         "Code":"CER",
-         "Description":"CEREALES",
-         "IconName":"cat_cereal"
+         "code":"EMB",
+         "description":"EMBUTidOS",
+         "iconName":"cat_stuff"
       },
       {
-         "Code":"DET",
-         "Description":"DETERGENTES",
-         "IconName":"cat_cleaner"
+         "code":"CAR",
+         "description":"CARNES",
+         "iconName":"cat_meat"
       },
       {
-         "Code":"SAZ",
-         "Description":"SAZONES",
-         "IconName":"cat_condiment"
+         "code":"VIV",
+         "description":"VIVERES",
+         "iconName":"cat_vivere"
       },
       {
-         "Code":"MET",
-         "Description":"CARNES",
-         "IconName":"cat_meat"
+         "code":"RES",
+         "description":"REPOSTERIA",
+         "iconName":"cat_bread"
       },
       {
-         "Code":"REC",
-         "Description":"RECARGAS",
-         "IconName":"cat_recharge"
+         "code":"CER",
+         "description":"CEREAL",
+         "iconName":"cat_cereal"
       },
       {
-         "Code":"VEG",
-         "Description":"VEGETALES",
-         "IconName":"cat_vegetables"
+         "code":"VEG",
+         "description":"VEGETALES",
+         "iconName":"cat_vegetables"
       },
       {
-         "Code":"CP",
-         "Description":"CUIDADO PERSONAL",
-         "IconName":"cat_personal_care"
+         "code":"CON",
+         "description":"CONDIMENTO",
+         "iconName":"cat_condiment"
       },
       {
-         "Code":"CAND",
-         "Description":"DULCES",
-         "IconName":"cat_candy"
+         "code":"DUL",
+         "description":"DULCE",
+         "iconName":"cat_candy"
+      },
+      {
+         "code":"ALC",
+         "description":"ALCOHOL",
+         "iconName":"cat_alcohol"
+      },
+      {
+         "code":"LIM",
+         "description":"LIMPIEZA",
+         "iconName":"cat_cleaner"
+      },
+      {
+         "code":"DRK",
+         "description":"BEBidAS",
+         "iconName":"cat_drink"
+      },
+      {
+         "code":"CUIPER",
+         "description":"CUidADO PERSONAL",
+         "iconName":"cat_personal_care"
+      },
+      {
+         "code":"NAN",
+         "description":"SIN CATEGORÍA",
+         "iconName":"cat_more"
       }
    ]
 }
