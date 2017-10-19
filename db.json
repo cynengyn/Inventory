@@ -303,44 +303,6 @@
          },
          "quantityInStock":10000,
          "barcode":"5800000658"
-      },
-      {
-         "id":"017",
-         "code":"017",
-         "shortName":"Cebolla",
-         "longName":"Cebolla Generica",
-         "iconName":"cebolla",
-         "price":5.0,
-         "category":{
-            "code":"VEG",
-            "description":"VEGETALES",
-            "iconName":"cat_vegetables"
-         },
-         "unityType":{
-            "code":"Ud",
-            "description":"Unidad"
-         },
-         "quantityInStock":100,
-         "barcode":""
-      },
-      {
-         "id":"018",
-         "code":"018",
-         "shortName":"Alpina",
-         "longName":"Agua 18 onz",
-         "iconName":"agua_alpina",
-         "price":10.0,
-         "category":{
-            "code":"EMB",
-            "description":"EMBUTidOS",
-            "iconName":"cat_stuff"
-         },
-         "unityType":{
-            "code":"Ud",
-            "description":"Unidad"
-         },
-         "quantityInStock":1000,
-         "barcode":"65833254"
       }
    ],
    "Categories":[
