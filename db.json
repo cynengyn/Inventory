@@ -3,7 +3,6 @@
    "vo":{
       "ProductInventory":[
          {
-            "ID":"001",
             "Code":"001",
             "ShortName":"Cebolla",
             "LongName":"Cebolla Generica",
@@ -22,7 +21,6 @@
             "BarCode":""
          },
          {
-            "ID":"002",
             "Code":"002",
             "ShortName":"Alpina",
             "LongName":"Agua 18 onz",
@@ -41,7 +39,6 @@
             "BarCode":"65833254"
          },
          {
-            "ID":"003",
             "Code":"003",
             "ShortName":"Doria",
             "LongName":"Spaguettis 350g",
@@ -60,7 +57,6 @@
             "BarCode":""
          },
          {
-            "ID":"004",
             "Code":"004",
             "ShortName":"Aguacate",
             "LongName":"Aguacate Generico",
@@ -79,7 +75,6 @@
             "BarCode":""
          },
          {
-            "ID":"005",
             "Code":"005",
             "ShortName":"Carnation",
             "LongName":"Leche Evaporada 10 onz",
@@ -98,7 +93,6 @@
             "BarCode":""
          },
          {
-            "ID":"006",
             "Code":"006",
             "ShortName":"Corona",
             "LongName":"Cerveza 15 onz",
@@ -117,7 +111,6 @@
             "BarCode":""
          },
          {
-            "ID":"007",
             "Code":"007",
             "ShortName":"Dasani",
             "LongName":"Agua 18 onz",
@@ -136,7 +129,6 @@
             "BarCode":""
          },
          {
-            "ID":"008",
             "Code":"008",
             "ShortName":"Papas",
             "LongName":"Papas Genericas",
@@ -155,7 +147,6 @@
             "BarCode":"12345678"
          },
          {
-            "ID":"009",
             "Code":"009",
             "ShortName":"Platanos",
             "LongName":"Platanos Genericos",
@@ -174,7 +165,6 @@
             "BarCode":""
          },
          {
-            "ID":"010",
             "Code":"010",
             "ShortName":"Pollo",
             "LongName":"Pollo Generico",
@@ -193,7 +183,6 @@
             "BarCode":""
          },
          {
-            "ID":"011",
             "Code":"011",
             "ShortName":"Crisol",
             "LongName":"Aceite Vegetal 8 onz",
@@ -212,7 +201,6 @@
             "BarCode":""
          },
          {
-            "ID":"012",
             "Code":"012",
             "ShortName":"Mamut",
             "LongName":"Galletas",
@@ -231,7 +219,6 @@
             "BarCode":""
          },
          {
-            "ID":"013",
             "Code":"013",
             "ShortName":"Maggi",
             "LongName":"Sazón Completo",
@@ -250,7 +237,6 @@
             "BarCode":""
          },
          {
-            "ID":"014",
             "Code":"014",
             "ShortName":"Quezo",
             "LongName":"Quezo Generico",
@@ -269,7 +255,6 @@
             "BarCode":""
          },
          {
-            "ID":"015",
             "Code":"015",
             "ShortName":"Rica",
             "LongName":"Jugo de naranja 8 onz",
@@ -288,7 +273,6 @@
             "BarCode":"071153785601"
          },
          {
-            "ID":"016",
             "Code":"016",
             "ShortName":"Claro",
             "LongName":"Recarga",
