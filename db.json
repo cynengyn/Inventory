@@ -10,8 +10,8 @@
             "Price":5.0,
             "Category":{
                "Code":"VEG",
-               "Description":"VEGETALES",
-               "IconName":"cat_vegetables"
+               "Description":"",
+               "IconName":""
             },
             "UnityType":{
                "Code":"Ud",
@@ -28,8 +28,8 @@
             "Price":10.0,
             "Category":{
                "Code":"EMB",
-               "Description":"EMBUTIDOS",
-               "IconName":"cat_stuff"
+               "Description":"",
+               "IconName":""
             },
             "UnityType":{
                "Code":"Ud",
@@ -46,8 +46,8 @@
             "Price":45.0,
             "Category":{
                "Code":"NAN",
-               "Description":"SIN CATEGORÍA",
-               "IconName":"cat_more"
+               "Description":"",
+               "IconName":""
             },
             "UnityType":{
                "Code":"Ud",
@@ -64,8 +64,8 @@
             "Price":20.0,
             "Category":{
                "Code":"VEG",
-               "Description":"VEGETALES",
-               "IconName":"cat_vegetables"
+               "Description":"",
+               "IconName":""
             },
             "UnityType":{
                "Code":"Ud",
@@ -82,8 +82,8 @@
             "Price":35.0,
             "Category":{
                "Code":"NAN",
-               "Description":"SIN CATEGORÍA",
-               "IconName":"cat_more"
+               "Description":"",
+               "IconName":""
             },
             "UnityType":{
                "Code":"Ud",
@@ -100,8 +100,8 @@
             "Price":70.0,
             "Category":{
                "Code":"ALC",
-               "Description":"ALCOHOL",
-               "IconName":"cat_alcohol"
+               "Description":"",
+               "IconName":""
             },
             "UnityType":{
                "Code":"Ud",
@@ -118,8 +118,8 @@
             "Price":15.0,
             "Category":{
                "Code":"DRK",
-               "Description":"BEBIDAS",
-               "IconName":"cat_drink"
+               "Description":"",
+               "IconName":""
             },
             "UnityType":{
                "Code":"Ud",
@@ -136,8 +136,8 @@
             "Price":15.0,
             "Category":{
                "Code":"VIV",
-               "Description":"VIVERES",
-               "IconName":"cat_vivere"
+               "Description":"",
+               "IconName":""
             },
             "UnityType":{
                "Code":"Lib",
@@ -154,8 +154,8 @@
             "Price":8.0,
             "Category":{
                "Code":"VIV",
-               "Description":"VIVERES",
-               "IconName":"cat_vivere"
+               "Description":"",
+               "IconName":""
             },
             "UnityType":{
                "Code":"Ud",
@@ -172,8 +172,8 @@
             "Price":65.0,
             "Category":{
                "Code":"CAR",
-               "Description":"CARNES",
-               "IconName":"cat_meat"
+               "Description":"",
+               "IconName":""
             },
             "UnityType":{
                "Code":"Lib",
@@ -190,8 +190,8 @@
             "Price":10.0,
             "Category":{
                "Code":"NAN",
-               "Description":"SIN CATEGORÍA",
-               "IconName":"cat_more"
+               "Description":"",
+               "IconName":""
             },
             "UnityType":{
                "Code":"Ud",
@@ -208,8 +208,8 @@
             "Price":15.0,
             "Category":{
                "Code":"NAN",
-               "Description":"SIN CATEGORÍA",
-               "IconName":"cat_more"
+               "Description":"",
+               "IconName":""
             },
             "UnityType":{
                "Code":"Ud",
@@ -226,8 +226,8 @@
             "Price":45.0,
             "Category":{
                "Code":"CON",
-               "Description":"CONDIMENTO",
-               "IconName":"cat_condiment"
+               "Description":"",
+               "IconName":""
             },
             "UnityType":{
                "Code":"Ud",
@@ -244,8 +244,8 @@
             "Price":25.0,
             "Category":{
                "Code":"NAN",
-               "Description":"SIN CATEGORÍA",
-               "IconName":"cat_more"
+               "Description":"",
+               "IconName":""
             },
             "UnityType":{
                "Code":"Lib",
@@ -262,8 +262,8 @@
             "Price":15.0,
             "Category":{
                "Code":"DRK",
-               "Description":"BEBIDAS",
-               "IconName":"cat_drink"
+               "Description":"",
+               "IconName":""
             },
             "UnityType":{
                "Code":"Ud",
@@ -280,8 +280,8 @@
             "Price":50.0,
             "Category":{
                "Code":"REC",
-               "Description":"RECARGAS",
-               "IconName":"cat_recharge"
+               "Description":"",
+               "IconName":""
             },
             "UnityType":{
                "Code":"Ud",
